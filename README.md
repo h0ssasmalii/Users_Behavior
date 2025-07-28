@@ -36,8 +36,8 @@ The Excel Dashboard allows users to interactively:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
-
+![Dashboard Screenshot](Dashboard_1.png)
+![Dashboard Screenshot](Dashboard_2.png)
 
 ### 🔍 Key Insights
 
