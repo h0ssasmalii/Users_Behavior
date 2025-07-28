@@ -41,9 +41,12 @@ The Excel Dashboard allows users to interactively:
 
 ### 🔍 Key Insights
 
-- Heavy users consume more screen time and battery.
-- Android and iOS users behave differently across certain metrics.
-- Devices released in 2021 vary in how they manage data and app usage.
+1. **Google Pixel 5** had the **lowest battery consumption** among heavy users, with an average of **2677 mAh per hour**.
+2. **iPhone 12** showed the **highest battery consumption** for heavy users, at **2728 mAh per hour**.
+3. **OnePlus 9** had the **lowest mobile data usage** among heavy users.
+4. The majority of **moderate users** were **female**.
+5. There is a **strong correlation** between **screen-on time** and **battery drain**.
+
 
 ## 📂 File Structure
 
